@@ -1,90 +1,62 @@
-```html
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fubixx - Portal de Entretenimiento</title>
-    <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;600;700;800&display=swap" rel="stylesheet">
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
-    <style>
-        :root {
-            --primary-color: #ff0000;
-            --primary-dark: #009624;
-            --bg-color: #121212;
-            --bg-light: #1e1e1e;
-            --text-color: #ffffff;
-            --text-secondary: #b0b0b0;
-            --card-bg: #252525;
-            --card-hover: #333;
-        }
+# 🎬 Fubixx Plus - Portal de Entretenimiento Premium
 
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-            font-family: 'Raleway', sans-serif;
-        }
+[![Descargar APK](https://img.shields.io/badge/📲_Descargar_APK-009624?style=for-the-badge&logo=android)](https://archive.org/download/fubixx-plus/FubixxPlus.apk)
+[![Ver Tutorial](https://img.shields.io/badge/🎬_Ver_Tutorial-FF0050?style=for-the-badge&logo=tiktok)](https://www.tiktok.com/@fubixxpluss)
 
-        body {
-            background-color: var(--bg-color);
-            color: var(--text-color);
-            line-height: 1.7;
-            -webkit-font-smoothing: antialiased;
-        }
+## 🖼️ Contenido Disponible
+<div align="center">
+  <img src="https://i.pinimg.com/736x/91/59/98/915998de79cc1965c9979c03a9d7843e.jpg" width="180" alt="Película 1">
+  <img src="https://i.pinimg.com/474x/e1/32/33/e13233235ae9a87935a6b9eff9b58e36.jpg" width="180" alt="Película 2">
+  <img src="https://i.pinimg.com/736x/67/f8/96/67f896c5249225e9a4eeabf91a7ccd29.jpg" width="180" alt="Serie 1">
+  <img src="https://i.pinimg.com/736x/0b/79/34/0b7934838de4618a576e6150b4f583b3.jpg" width="180" alt="Serie 2">
+</div>
 
-        /* Todos los demás estilos... */
-        .app-header {
-            display: flex;
-            padding: 15px 10px;
-            align-items: center;
-            gap: 15px;
-            background: linear-gradient(135deg, var(--bg-light) 0%, var(--bg-color) 100%);
-            border-bottom: 1px solid rgba(0, 200, 83, 0.1);
-        }
-        
-        /* Resto del CSS... */
-    </style>
-</head>
-<body>
-    <!-- Encabezado App -->
-    <header class="app-header">
-        <img src="https://i.pinimg.com/236x/d4/c2/04/d4c204ac5e62dd78f2b429f409d70d2d.jpg" alt="Logo Fubixx">
-        <div class="app-info">
-            <h1>Fubixx</h1>
-            <p>Tu portal de entretenimiento ilimitado</p>
-        </div>
-    </header>
+## 📥 Cómo Instalar
+## ⚠️ Requisitos Mínimos
+- **Todos los dispositivos**:  
+  Bloqueador de anuncios activado (DNS o extensión)
+- **Android**: Android 6.0+  
+- **iPhone**: iOS 12.0+  
+- **PC**: Navegador actualizado  
 
-    <!-- Botón de descarga dinámico -->
-    <div id="dynamic-download-btn"></div>
+## ▶️ Video Tutorial
+No olvides ver el tutorial completo:  
+[Tutorial de instalación en TikTok](https://www.tiktok.com/@fubixxpluss)
+### Android y TV Android
+1. [Descarga el APK](https://archive.org/download/fubixx-plus/FubixxPlus.apk)
+2. Activa la dns.adguard.com Desde ajustes de tu android
+3. Instala normalmente
 
-    <!-- Resto del contenido HTML... -->
+### iPhone/iPad
+1. Configura DNS AdGuard:  
+   [Guía oficial](https://adguard-dns.io/es/public-dns.html)
+2. Accede via Safari a:  
+   [fubixx.blogspot.com](https://fubixxplusapp.blogspot.com/)
 
-    <script>
-        document.addEventListener('DOMContentLoaded', function() {
-            const deviceButtons = document.querySelectorAll('.device-btn');
-            const instructionContainers = document.querySelectorAll('.instructions-container');
-            const dynamicDownloadBtn = document.getElementById('dynamic-download-btn');
-            const posterContainer = document.getElementById('poster-container');
-            
-            function updateDownloadButton(device) {
-                if (device === 'android' || device === 'tvbox' || device === 'stick') {
-                    dynamicDownloadBtn.innerHTML = `
-                        <a href="https://archive.org/download/fubixx-plus/FubixxPlus.apk" class="download-btn">
-                            <i class="fas fa-download"></i> Descargar APK
-                        </a>`;
-                } else {
-                    dynamicDownloadBtn.innerHTML = `
-                        <a href="https://fubixx.blogspot.com/" class="download-btn">
-                            <i class="fas fa-external-link-alt"></i> Ingresar a Fubixx
-                        </a>`;
-                }
-            }
-            
-            // Resto del JavaScript...
-        });
-    </script>
-</body>
-</html>
-```
+### PC (Windows/Mac)
+1. Instala extensión bloqueadora:  
+   [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
+2. Accede via navegador a:  
+   [fubixx.blogspot.com](https://fubixx.blogspot.com/)
+
+### Smart TV/Android TV
+1. Descarga el APK en USB desde:  
+   [Enlace APK](https://archive.org/download/fubixx-plus/FubixxPlus.apk)
+2. Instala mediante gestor de archivos
+
+
+
+<details>
+<summary>🔍 Solución de Problemas</summary>
+
+**Problemas comunes:**
+1. Anuncios apareciendo:  
+   - Revisa tu configuración DNS  
+   - Para iPhone: [Configurar AdGuard DNS](https://adguard-dns.io/es/public-dns.html)  
+   - Para PC: Instalar [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
+
+2. Error al instalar APK:  
+   - Verifica que tienes "Fuentes desconocidas" activado  
+   - Descarga nuevamente el APK  
+
+</details>
