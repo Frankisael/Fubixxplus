@@ -5,10 +5,9 @@
 
 ## 🖼️ Contenido Disponible
 <div align="center">
-  <img src="https://i.pinimg.com/736x/91/59/98/915998de79cc1965c9979c03a9d7843e.jpg" width="180" alt="Película 1">
-  <img src="https://i.pinimg.com/474x/e1/32/33/e13233235ae9a87935a6b9eff9b58e36.jpg" width="180" alt="Película 2">
-  <img src="https://i.pinimg.com/736x/67/f8/96/67f896c5249225e9a4eeabf91a7ccd29.jpg" width="180" alt="Serie 1">
-  <img src="https://i.pinimg.com/736x/0b/79/34/0b7934838de4618a576e6150b4f583b3.jpg" width="180" alt="Serie 2">
+  <img src="https://i.pinimg.com/1200x/3b/a0/d2/3ba0d22d6d25d6ca1ed23ac31a6de0ac.jpg" width="180" alt="Película 1">
+  <img src="https://i.pinimg.com/1200x/18/ce/80/18ce80928fd014819e7bfbdf2e44aceb.jpg" width="180" alt="Película 2">
+  <img src="https://i.pinimg.com/736x/b9/a0/f3/b9a0f35288ed1cb08de1c14dcba4c1c0.jpg" width="180" alt="Serie 1">  
 </div>
 
 ## 📥 Cómo Instalar
