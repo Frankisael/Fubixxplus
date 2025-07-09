@@ -6,8 +6,6 @@
 ## 🖼️ Contenido Disponible
 <div align="center">
   <img src="https://i.pinimg.com/1200x/3b/a0/d2/3ba0d22d6d25d6ca1ed23ac31a6de0ac.jpg" width="180" alt="Película 1">
-  <img src="https://i.pinimg.com/1200x/18/ce/80/18ce80928fd014819e7bfbdf2e44aceb.jpg" width="180" alt="Película 2">
-  <img src="https://i.pinimg.com/736x/b9/a0/f3/b9a0f35288ed1cb08de1c14dcba4c1c0.jpg" width="180" alt="Serie 1">  
 </div>
 
 ## 📥 Cómo Instalar
